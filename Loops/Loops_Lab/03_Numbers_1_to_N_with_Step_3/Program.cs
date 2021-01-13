@@ -11,7 +11,6 @@ namespace _03_Numbers_1_to_N_with_Step_3
             for (int i = 1; i <= n; i+=3)
             {
                 Console.WriteLine(i);
-                Console.WriteLine(i + 1);
             }
         }
     }
