@@ -15,6 +15,7 @@ namespace _07_Sum_Numbers
                 int num = int.Parse(Console.ReadLine());
                 sum = sum + num;
             }
+
             Console.WriteLine(sum);
         }
     }
