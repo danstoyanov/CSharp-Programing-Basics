@@ -4,7 +4,7 @@ namespace _08_Number_sequence
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int input = int.Parse(Console.ReadLine());
 

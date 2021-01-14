@@ -4,7 +4,7 @@ namespace _07_Sum_Numbers
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int n = int.Parse(Console.ReadLine());
 
